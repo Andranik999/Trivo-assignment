@@ -1,3 +1,9 @@
+## Prerequisites
+
+- **Node.js** >= 18
+- **pnpm** — `npm install -g pnpm`
+- **PostgreSQL** — must be installed and running on `localhost:5432`
+
 ### 1. Install dependencies
 
 ```bash
